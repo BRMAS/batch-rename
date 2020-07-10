@@ -1,4 +1,4 @@
-# batch rename files by a index mapping file, and copy to a folder
+# batch rename files by a index mapping file and copy to a folder
 
 usage:  
 ```
